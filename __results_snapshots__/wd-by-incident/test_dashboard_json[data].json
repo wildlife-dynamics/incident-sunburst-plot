@@ -1,0 +1,74 @@
+{
+  "error": null,
+  "result": {
+    "filters": {
+      "schema": {
+        "properties": {
+          "incident": {
+            "default": "#101 Snare line, north boundary",
+            "oneOf": [
+              {
+                "const": "#101 Snare line, north boundary",
+                "title": "#101 Snare line, north boundary"
+              },
+              {
+                "const": "#103 Gunshots near river camp",
+                "title": "#103 Gunshots near river camp"
+              },
+              {
+                "const": "#104 (untitled)",
+                "title": "#104 (untitled)"
+              }
+            ],
+            "title": "Incident",
+            "type": "string"
+          }
+        },
+        "type": "object",
+        "uiSchema": {
+          "incident": {
+            "ui:title": "Incident",
+            "ui:widget": "select"
+          }
+        }
+      }
+    },
+    "layout": [],
+    "metadata": {
+      "description": "",
+      "time_range": "From 01 Jan 2026 00:00:00 UTC+03:00 to 14 Oct 2026 00:00:00 UTC+03:00",
+      "time_zone": "UTC+03:00",
+      "title": "Incident Sunburst Plot"
+    },
+    "views": {
+      "{\"incident\": \"#101 Snare line, north boundary\"}": [
+        {
+          "data": "tmpfile",
+          "id": 0,
+          "is_filtered": true,
+          "title": "Events by incident and event type",
+          "widget_type": "graph"
+        }
+      ],
+      "{\"incident\": \"#103 Gunshots near river camp\"}": [
+        {
+          "data": "tmpfile",
+          "id": 0,
+          "is_filtered": true,
+          "title": "Events by incident and event type",
+          "widget_type": "graph"
+        }
+      ],
+      "{\"incident\": \"#104 (untitled)\"}": [
+        {
+          "data": "tmpfile",
+          "id": 0,
+          "is_filtered": true,
+          "title": "Events by incident and event type",
+          "widget_type": "graph"
+        }
+      ]
+    }
+  },
+  "trace": null
+}

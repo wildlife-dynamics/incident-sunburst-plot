@@ -1,0 +1,41 @@
+wd-all-incidents:
+  mock_io_overrides:
+    ecoscope.platform.tasks.io.get_incident_events: mock-io/get-incident-events.example-return.parquet
+  name: Wildlife Dynamics, all incidents
+  description: >-
+    Four incidents (8 events): mixed event types, one incident with no located
+    events, one event in review. Top N = 2, so two incidents go into "Other".
+  params:
+    workflow_details:
+      name: Incident Sunburst Plot
+      description: ""
+    er_client:
+      data_source:
+        name: wd
+    time_range:
+      since: "2026-01-01T00:00:00+03:00"
+      until: "2026-10-14T00:00:00+03:00"
+      timezone: {label: "UTC+03:00", tzCode: Africa/Nairobi, name: Africa/Nairobi, utc: "+03:00"}
+    groupers:
+      groupers: []
+    sunburst: {top_n: 2}
+
+wd-by-incident:
+  mock_io_overrides:
+    ecoscope.platform.tasks.io.get_incident_events: mock-io/get-incident-events.example-return.parquet
+  name: Wildlife Dynamics, one view per incident
+  description: Same data grouped by incident; one chart per incident.
+  params:
+    workflow_details:
+      name: Incident Sunburst Plot
+      description: ""
+    er_client:
+      data_source:
+        name: wd
+    time_range:
+      since: "2026-01-01T00:00:00+03:00"
+      until: "2026-10-14T00:00:00+03:00"
+      timezone: {label: "UTC+03:00", tzCode: Africa/Nairobi, name: Africa/Nairobi, utc: "+03:00"}
+    groupers:
+      groupers: [{index_name: incident}]
+    sunburst: {}

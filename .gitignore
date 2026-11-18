@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# local dev overrides
+Makefile.local
+wt-compiler-env-overrides.toml
+.pixi-workflow-keep
+# test diffs written by the compiled workflow's tests
+__diff_output__/
+spec-dev.yaml
