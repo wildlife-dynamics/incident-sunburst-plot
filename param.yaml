@@ -1,0 +1,17 @@
+workflow_details:
+  name: Incident Sunburst Plot
+  description: Incidents and their event types
+er_client:
+  data_source:
+    name: wd
+time_range:
+  since: "2026-01-01T00:00:00+03:00"
+  until: "2026-10-14T00:00:00+03:00"
+  timezone:
+    label: "UTC+03:00"
+    tzCode: Africa/Nairobi
+    name: Africa/Nairobi
+    utc: "+03:00"
+groupers:
+  groupers: []
+sunburst: {}
