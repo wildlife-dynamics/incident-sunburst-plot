@@ -20,6 +20,10 @@ from ecoscope.platform.tasks.skip import (
 )
 from ecoscope.platform.tasks.skip import any_is_empty_df as any_is_empty_df
 from ecoscope.platform.tasks.skip import never as never
+from ecoscope.platform.tasks.transformation import apply_color_map as apply_color_map
+from ecoscope.platform.tasks.transformation import (
+    color_map_by_frequency as color_map_by_frequency,
+)
 from wt_contracts import validate as _validate
 from wt_task import task
 
@@ -121,6 +125,68 @@ def main(params: dict[str, Any], validate_params_schema: bool = True):
         .call()
     )
 
+    event_type_colors = (
+        task(color_map_by_frequency)
+        .validate()
+        .set_task_instance_id("event_type_colors")
+        .handle_errors()
+        .with_tracing()
+        .skipif(
+            conditions=[
+                any_is_empty_df,
+                any_dependency_skipped,
+            ],
+            unpack_depth=1,
+        )
+        .partial(
+            df=incident_events,
+            input_column_name="event_type_display",
+            colormap=[
+                "#2a78d6",
+                "#eb6834",
+                "#1baf7a",
+                "#eda100",
+                "#e87ba4",
+                "#008300",
+                "#6250d6",
+                "#e34948",
+                "#0f9fb5",
+                "#8c5a3c",
+                "#a6b51b",
+                "#b14fc5",
+                "#1f4e8c",
+                "#7cc4f0",
+                "#9b2f5f",
+                "#d4a3e8",
+            ],
+            **(params.get("event_type_colors") or {}),
+        )
+        .call()
+    )
+
+    incident_data = (
+        task(apply_color_map)
+        .validate()
+        .set_task_instance_id("incident_data")
+        .handle_errors()
+        .with_tracing()
+        .skipif(
+            conditions=[
+                any_is_empty_df,
+                any_dependency_skipped,
+            ],
+            unpack_depth=1,
+        )
+        .partial(
+            df=incident_events,
+            input_column_name="event_type_display",
+            output_column_name="event_type_color",
+            colormap=event_type_colors,
+            **(params.get("incident_data") or {}),
+        )
+        .call()
+    )
+
     incidents_split = (
         task(split_groups)
         .validate()
@@ -135,9 +201,7 @@ def main(params: dict[str, Any], validate_params_schema: bool = True):
             unpack_depth=1,
         )
         .partial(
-            df=incident_events,
-            groupers=groupers,
-            **(params.get("incidents_split") or {}),
+            df=incident_data, groupers=groupers, **(params.get("incidents_split") or {})
         )
         .call()
     )
@@ -158,29 +222,13 @@ def main(params: dict[str, Any], validate_params_schema: bool = True):
         .partial(
             ring_columns=["incident", "event_type_display"],
             value_column=None,
-            color_column=None,
-            palette=[
-                "#2a78d6",
-                "#eb6834",
-                "#1baf7a",
-                "#eda100",
-                "#e87ba4",
-                "#008300",
-                "#6250d6",
-                "#e34948",
-                "#0f9fb5",
-                "#8c5a3c",
-                "#a6b51b",
-                "#b14fc5",
-                "#1f4e8c",
-                "#7cc4f0",
-                "#9b2f5f",
-                "#d4a3e8",
-            ],
+            color_column="event_type_color",
+            color_ring=1,
+            palette=["#e6e9ee"],
             pinned_values=None,
             other_color=None,
             expand_other=True,
-            plot_style={"insidetextorientation": "radial"},
+            plot_style={"insidetextorientation": "radial", "leaf_opacity": 1},
             layout_style=None,
             **(params.get("sunburst") or {}),
         )

@@ -10,9 +10,9 @@ It is one output of the incident report, split out on its own so it can be combi
 
 | Output | Shows |
 |---|---|
-| Events by incident and event type (widget) | Inner ring: incidents. Outer ring: their event types, in the incident's colour. Hover shows the count, % of parent and % of total. |
+| Events by incident and event type (widget) | Inner ring: incidents, in light grey. Outer ring: their event types, each in its event-type colour. Hover shows the count, % of parent and % of total. |
 
-Incidents take their colours, in turn, from the same 16-colour list as the other workflows split out of the incident report (repeating after 16), and each outer slice takes its incident's colour. "Other" is grey. Here the colours mark incidents, not event types, so an event type's colour doesn't match the storyboard's.
+Every event type has one colour, the same in every view: the most common type takes the first of 16 set colours (`color_map_by_frequency`, then `apply_color_map`, before grouping). incident-storyboard uses the same task and list, so on the same site and time range an event type has the same colour in both, as in the original incident report. Event types are drawn at full colour (`leaf_opacity: 1`). Incidents are all light grey (`#e6e9ee`), and "Other" is a darker grey.
 
 ## Parameters
 
@@ -27,12 +27,15 @@ Incidents take their colours, in turn, from the same 16-colour list as the other
 
 ```
 get_incident_events          incidents in the range → their events, with display names
+  → color_map_by_frequency (event_type_display → {type: colour}, most common first)
+  → apply_color_map (→ event_type_color)
   → split_groups (Incident, or all)
-  → draw_sunburst_chart (rings: incident, event_type_display; expand_other) → persist_text → plot widget
+  → draw_sunburst_chart (rings: incident, event_type_display; color_column: event_type_color,
+                         color_ring: 1; expand_other) → persist_text → plot widget
   → gather_dashboard
 ```
 
-Every task is from `ecoscope-platform` (≥ 2.37.0). Nested incidents are followed up to 5 levels deep (`max_depth: 5`, fixed in `spec.yaml`).
+Every task is from `ecoscope-platform` (≥ 2.38.0). Nested incidents are followed up to 5 levels deep (`max_depth: 5`, fixed in `spec.yaml`).
 
 ## Local development
 
