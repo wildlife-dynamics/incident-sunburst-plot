@@ -96,10 +96,10 @@
           "properties": {
             "top_n": {
               "default": null,
-              "description": "Keep the N incidents with the most events (and the N most common event types in each); the rest are merged into \"Other\". Leave empty to show all.",
+              "description": "Leave empty to show every incident. Enter a number, for example 10, to keep the 10 incidents with the most events and join the rest into one grey \"Other\" slice; click it to see them. Inside each incident, event types beyond its 10 most common are also joined into \"Other\".",
               "ecoscope:advanced": true,
               "minimum": 1,
-              "title": "Top N",
+              "title": "Show only the biggest incidents",
               "type": "integer"
             }
           },
