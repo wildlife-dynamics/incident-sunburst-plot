@@ -21,18 +21,18 @@ Incidents take their colours from the default palette, and each outer slice take
 | Data Source | EarthRanger connection |
 | Time Range | Selects incidents by their own date. **All** of an incident's events are included, even those dated outside the range. |
 | Group by | Optional. **Incident** gives one dashboard view per incident. |
-| Top N (advanced) | Keep the N incidents with the most events, and the N most common event types in each; the rest are merged into "Other (k values)". A single leftover keeps its own slice. Empty shows everything. |
+| Show only the biggest incidents (advanced) | Empty (the default) shows every incident. A number, e.g. 10, keeps the 10 incidents with the most events and joins the rest into one grey "Other (k values)" slice; inside each incident, event types beyond its 10 most common are joined the same way. A single leftover keeps its own slice. Click "Other" to see the grouped incidents by name, and click one of them for its event types. |
 
 ## How it works
 
 ```
 get_incident_events          incidents in the range → their events, with display names
   → split_groups (Incident, or all)
-  → draw_sunburst_chart (rings: incident, event_type_display) → persist_text → plot widget
+  → draw_sunburst_chart (rings: incident, event_type_display; expand_other) → persist_text → plot widget
   → gather_dashboard
 ```
 
-Every task is from `ecoscope-platform` (≥ 2.35.0). Nested incidents are followed up to 5 levels deep (`max_depth: 5`, fixed in `spec.yaml`).
+Every task is from `ecoscope-platform` (≥ 2.37.0). Nested incidents are followed up to 5 levels deep (`max_depth: 5`, fixed in `spec.yaml`).
 
 ## Local development
 

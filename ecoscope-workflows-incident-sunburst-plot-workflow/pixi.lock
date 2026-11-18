@@ -366,7 +366,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-0.163.1-h4731342_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-cli-0.0.32-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-core-0.163.1-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.11-pyh5ded981_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.12-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/folium-1.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-inconsolata-3.000-h77eed37_0.tar.bz2
@@ -557,9 +557,9 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/xyzservices-2026.9.1-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/zipp-4.1.2-pyh5ded981_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/earthranger-client-1.0.49-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.36.0-pyh4616a5c_5.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.37.0-pyh4616a5c_5.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-earthranger-io-core-0.0.28-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.36.0-pyh4616a5c_0.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.37.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/lonboard-0.0.8-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-contracts-0.3.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-registry-0.3.1-pyh4616a5c_0.conda
@@ -891,7 +891,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-0.163.1-h4731342_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-cli-0.0.32-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-core-0.163.1-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.11-pyh5ded981_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.12-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/folium-1.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-inconsolata-3.000-h77eed37_0.tar.bz2
@@ -1082,9 +1082,9 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/xyzservices-2026.9.1-pyhd8ed1ab_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/zipp-4.1.2-pyh5ded981_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/earthranger-client-1.0.49-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.36.0-pyh4616a5c_5.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.37.0-pyh4616a5c_5.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-earthranger-io-core-0.0.28-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.36.0-pyh4616a5c_0.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.37.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/lonboard-0.0.8-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-contracts-0.3.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-registry-0.3.1-pyh4616a5c_0.conda
@@ -1148,7 +1148,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-0.163.1-h4731342_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-cli-0.0.32-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-core-0.163.1-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.11-pyh5ded981_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.12-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/folium-1.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-inconsolata-3.000-h77eed37_0.tar.bz2
@@ -1342,7 +1342,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-64/arro3-compute-0.9.1-py312h397144c_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/arro3-core-0.9.1-py312h397144c_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/arro3-io-0.9.1-py312h397144c_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/osx-64/astropy-base-8.0.2-py312h7393e0f_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/osx-64/astropy-base-8.0.3-py312h7393e0f_0.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/atk-1.0-2.38.0-h4bec284_2.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/aws-c-auth-1.0.0-h87af9f7_2.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/aws-c-cal-1.0.0-h704dcf7_1.conda
@@ -1586,9 +1586,9 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-64/zlib-ng-2.3.3-h646e873_1.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-64/zstd-1.5.7-hbc1a06c_7.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/earthranger-client-1.0.49-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.36.0-pyh4616a5c_5.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.37.0-pyh4616a5c_5.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-earthranger-io-core-0.0.28-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.36.0-pyh4616a5c_0.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.37.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/lonboard-0.0.8-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-contracts-0.3.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-registry-0.3.1-pyh4616a5c_0.conda
@@ -1653,7 +1653,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-0.163.1-h4731342_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-cli-0.0.32-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-core-0.163.1-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.11-pyh5ded981_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.12-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/folium-1.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-inconsolata-3.000-h77eed37_0.tar.bz2
@@ -2084,9 +2084,9 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zlib-ng-2.3.3-h31dac16_1.conda
       - conda: https://conda.anaconda.org/conda-forge/osx-arm64/zstd-1.5.7-hf451053_7.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/earthranger-client-1.0.49-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.36.0-pyh4616a5c_5.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.37.0-pyh4616a5c_5.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-earthranger-io-core-0.0.28-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.36.0-pyh4616a5c_0.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.37.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/lonboard-0.0.8-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-contracts-0.3.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-registry-0.3.1-pyh4616a5c_0.conda
@@ -2146,7 +2146,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-0.163.1-h4731342_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-cli-0.0.32-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/fastapi-core-0.163.1-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.11-pyh5ded981_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.12-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/folium-1.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2
       - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-inconsolata-3.000-h77eed37_0.tar.bz2
@@ -2570,9 +2570,9 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/win-64/zlib-ng-2.3.3-h0261ad2_1.conda
       - conda: https://conda.anaconda.org/conda-forge/win-64/zstd-1.5.7-h534d264_7.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/earthranger-client-1.0.49-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.36.0-pyh4616a5c_5.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.37.0-pyh4616a5c_5.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-earthranger-io-core-0.0.28-pyh4616a5c_0.conda
-      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.36.0-pyh4616a5c_0.conda
+      - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.37.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/lonboard-0.0.8-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-contracts-0.3.0-pyh4616a5c_0.conda
       - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/wt-registry-0.3.1-pyh4616a5c_0.conda
@@ -3572,7 +3572,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/pyjwt-2.15.1-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-9.2.0-pyhc364b38_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-asyncio-1.5.0-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.0.3-pyh5ded981_1.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.1.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-abi3-3.13-h9bebd56_3.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dateutil-4.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dotenv-1.2.4-pyh5ded981_0.conda
@@ -3836,7 +3836,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/pyjwt-2.15.1-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-9.2.0-pyhc364b38_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-asyncio-1.5.0-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.0.3-pyh5ded981_1.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.1.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-abi3-3.13-h9bebd56_3.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dateutil-4.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dotenv-1.2.4-pyh5ded981_0.conda
@@ -3951,7 +3951,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/pyjwt-2.15.1-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-9.2.0-pyhc364b38_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-asyncio-1.5.0-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.0.3-pyh5ded981_1.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.1.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-abi3-3.13-h9bebd56_3.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dateutil-4.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dotenv-1.2.4-pyh5ded981_0.conda
@@ -4208,7 +4208,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/pyjwt-2.15.1-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-9.2.0-pyhc364b38_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-asyncio-1.5.0-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.0.3-pyh5ded981_1.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.1.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-abi3-3.13-h9bebd56_3.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dateutil-4.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dotenv-1.2.4-pyh5ded981_0.conda
@@ -4463,7 +4463,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/noarch/pyjwt-2.15.1-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-9.2.0-pyhc364b38_1.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-asyncio-1.5.0-pyh5ded981_0.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.0.3-pyh5ded981_1.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.1.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-abi3-3.13-hdb156c7_3.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dateutil-4.0.0-pyh5ded981_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/python-dotenv-1.2.4-pyh5ded981_0.conda
@@ -4796,6 +4796,7 @@ packages:
   constrains:
   - astropy >=7.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 9805608
   timestamp: 1794987651183
@@ -5017,6 +5018,7 @@ packages:
   - libgcc >=15
   - aws-c-common >=1.0.5,<1.1.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - aws-checksums >=1.0.1,<1.0.2.0a0
@@ -5215,6 +5217,7 @@ packages:
   - libbrotlienc 1.2.1 h018ffa1_1
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -5231,6 +5234,7 @@ packages:
   - libbrotlienc 1.2.1 h018ffa1_1
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 21856
   timestamp: 1794870585668
@@ -5300,6 +5304,7 @@ packages:
   - python >=3.12,<3.13.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 302660
   timestamp: 1794812717117
@@ -5314,6 +5319,7 @@ packages:
   - python >=3.13,<3.14.0a0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 303470
   timestamp: 1794812697646
@@ -5365,6 +5371,7 @@ packages:
   - libgcc >=15
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 328617
   timestamp: 1794831517781
@@ -5453,6 +5460,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 348266
   timestamp: 1794955784728
@@ -5468,6 +5476,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 347381
   timestamp: 1794955785333
@@ -5483,6 +5492,7 @@ packages:
   - libuuid >=2.42.4,<3.0a0
   - libzlib >=1.3.2,<2.0a0
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - fontconfig >=2.18.3,<3.0a0
@@ -5759,6 +5769,7 @@ packages:
   - libcrc32c >=1.1,<2.0a0
   - python_abi 3.12.* *_cp312
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 31362
   timestamp: 1794832761113
@@ -5813,6 +5824,7 @@ packages:
   - libstdcxx >=15
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 277258
   timestamp: 1794830069221
@@ -5909,6 +5921,7 @@ packages:
   - libglib >=2.90.1,<3.0a0
   - libstdcxx >=15
   license: LGPL-2.0-or-later
+  license_family: LGPL
   run_exports:
     weak:
     - gts >=0.7.6,<0.8.0a0
@@ -5968,6 +5981,7 @@ packages:
   - python >=3.12,<3.13.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 107685
   timestamp: 1794903255233
@@ -5980,6 +5994,7 @@ packages:
   - python >=3.13,<3.14.0a0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 105322
   timestamp: 1794903264956
@@ -6054,6 +6069,7 @@ packages:
   - libgcc >=15
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 75138
   timestamp: 1794810197655
@@ -6232,6 +6248,7 @@ packages:
   - arrow-cpp <0.0a0
   - parquet-cpp <0.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow >=26.0.1,<26.1.0a0
@@ -6265,6 +6282,7 @@ packages:
   - libgcc >=15
   - libstdcxx >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-acero >=26.0.1,<26.1.0a0
@@ -6302,6 +6320,7 @@ packages:
   - libutf8proc >=2.12.0,<2.13.0a0
   - re2
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-compute >=26.0.1,<26.1.0a0
@@ -6339,6 +6358,7 @@ packages:
   - libparquet 26.0.1 h64aa4af_7_cpu
   - libstdcxx >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-dataset >=26.0.1,<26.1.0a0
@@ -6356,6 +6376,7 @@ packages:
   - libgcc >=15
   - libstdcxx >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-s3 >=26.0.1,<26.1.0a0
@@ -6397,6 +6418,7 @@ packages:
   - libprotobuf >=7.35.1,<7.35.2.0a0
   - libstdcxx >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-substrait >=26.0.1,<26.1.0a0
@@ -6450,6 +6472,7 @@ packages:
   - __glibc >=2.17,<3.0.a0
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -6463,6 +6486,7 @@ packages:
   - libbrotlicommon 1.2.1 h39a168f_1
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlidec >=1.2.1,<1.3.0a0
@@ -6476,6 +6500,7 @@ packages:
   - libbrotlicommon 1.2.1 h39a168f_1
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlienc >=1.2.1,<1.3.0a0
@@ -7229,6 +7254,7 @@ packages:
   - zstd >=1.5.7,<1.6.0a0
   - lz4-c >=1.11.1,<1.12.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libnanoarrow >=0.9.0,<0.9.1.0a0
@@ -7401,6 +7427,7 @@ packages:
   - openssl >=3.5.9,<4.0a0
   - simdjson >=5.2.0,<5.3.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libparquet >=26.0.1,<26.1.0a0
@@ -8016,6 +8043,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 27697
   timestamp: 1794823807688
@@ -8030,6 +8058,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 27791
   timestamp: 1794823807688
@@ -8221,6 +8250,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -8241,6 +8271,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -8562,6 +8593,7 @@ packages:
   constrains:
   - pkg-config <0a0
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - pkgconf >=3.0.11,<4.0a0
@@ -8615,6 +8647,7 @@ packages:
   - python >=3.12,<3.13.0a0
   - python_abi 3.12.* *_cp312
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 62345
   timestamp: 1794690627227
@@ -8627,6 +8660,7 @@ packages:
   - python >=3.13,<3.14.0a0
   - python_abi 3.13.* *_cp313
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 60938
   timestamp: 1794690648324
@@ -8645,6 +8679,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 528240
   timestamp: 1794913653806
@@ -8663,6 +8698,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 534384
   timestamp: 1794913662254
@@ -8675,6 +8711,7 @@ packages:
   - libgcc >=15
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 225452
   timestamp: 1794808647717
@@ -8795,6 +8832,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 2003529
   timestamp: 1794860673785
@@ -8810,6 +8848,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 2002935
   timestamp: 1794860669843
@@ -9182,6 +9221,7 @@ packages:
   - __glibc >=2.17,<3.0.a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 158520
   timestamp: 1794835348094
@@ -9194,6 +9234,7 @@ packages:
   - libgcc >=15
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 160095
   timestamp: 1794835343659
@@ -9313,6 +9354,7 @@ packages:
   - numpy >=1.25,<3
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 17859694
   timestamp: 1794833009803
@@ -9335,6 +9377,7 @@ packages:
   - liblapack >=3.9.0,<4.0a0
   - pkgconf >=3.0.11,<4.0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 18075281
   timestamp: 1794833015270
@@ -9362,6 +9405,7 @@ packages:
   - libgcc >=15
   - __glibc >=2.17,<3.0.a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - simdjson >=5.2.0,<5.3.0a0
@@ -9391,6 +9435,7 @@ packages:
   - libgcc >=15
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 4161594
   timestamp: 1794914051193
@@ -9440,6 +9485,7 @@ packages:
   - libhwloc >=2.15.0,<2.15.1.0a0
   - libstdcxx >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 187403
   timestamp: 1794795891775
@@ -9540,6 +9586,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 374729
   timestamp: 1794939168664
@@ -10147,6 +10194,7 @@ packages:
   constrains:
   - astropy >=7.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 9966866
   timestamp: 1794987598377
@@ -10356,6 +10404,7 @@ packages:
   - libgcc >=15
   - aws-c-common >=1.0.5,<1.1.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - aws-checksums >=1.0.1,<1.0.2.0a0
@@ -10544,6 +10593,7 @@ packages:
   - libbrotlienc 1.2.1 hb247b97_1
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -10559,6 +10609,7 @@ packages:
   - libbrotlienc 1.2.1 hb247b97_1
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 21368
   timestamp: 1794870606279
@@ -10624,6 +10675,7 @@ packages:
   - python >=3.12,<3.13.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 323727
   timestamp: 1794812673272
@@ -10637,6 +10689,7 @@ packages:
   - python >=3.13,<3.14.0a0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 326836
   timestamp: 1794812670363
@@ -10672,6 +10725,7 @@ packages:
   - libgcc >=15
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 347296
   timestamp: 1794831525392
@@ -10755,6 +10809,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 343793
   timestamp: 1794955795250
@@ -10769,6 +10824,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 343327
   timestamp: 1794955792433
@@ -10783,6 +10839,7 @@ packages:
   - libuuid >=2.42.4,<3.0a0
   - libzlib >=1.3.2,<2.0a0
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - fontconfig >=2.18.3,<3.0a0
@@ -11044,6 +11101,7 @@ packages:
   - libcrc32c >=1.1,<2.0a0
   - python_abi 3.12.* *_cp312
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 31734
   timestamp: 1794832766320
@@ -11095,6 +11153,7 @@ packages:
   - libgcc >=15
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 276371
   timestamp: 1794830063659
@@ -11187,6 +11246,7 @@ packages:
   - libglib >=2.90.1,<3.0a0
   - libstdcxx >=15
   license: LGPL-2.0-or-later
+  license_family: LGPL
   run_exports:
     weak:
     - gts >=0.7.6,<0.8.0a0
@@ -11245,6 +11305,7 @@ packages:
   - python >=3.12,<3.13.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 106331
   timestamp: 1794903251204
@@ -11256,6 +11317,7 @@ packages:
   - python >=3.13,<3.14.0a0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 103947
   timestamp: 1794903241575
@@ -11325,6 +11387,7 @@ packages:
   - libgcc >=15
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 81199
   timestamp: 1794810206030
@@ -11495,6 +11558,7 @@ packages:
   - arrow-cpp <0.0a0
   - parquet-cpp <0.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow >=26.0.1,<26.1.0a0
@@ -11526,6 +11590,7 @@ packages:
   - libgcc >=15
   - libstdcxx >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-acero >=26.0.1,<26.1.0a0
@@ -11561,6 +11626,7 @@ packages:
   - libutf8proc >=2.12.0,<2.13.0a0
   - re2
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-compute >=26.0.1,<26.1.0a0
@@ -11596,6 +11662,7 @@ packages:
   - libparquet 26.0.1 hbd33593_7_cpu
   - libstdcxx >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-dataset >=26.0.1,<26.1.0a0
@@ -11612,6 +11679,7 @@ packages:
   - libgcc >=15
   - libstdcxx >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-s3 >=26.0.1,<26.1.0a0
@@ -11651,6 +11719,7 @@ packages:
   - libprotobuf >=7.35.1,<7.35.2.0a0
   - libstdcxx >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-substrait >=26.0.1,<26.1.0a0
@@ -11682,6 +11751,7 @@ packages:
   depends:
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -11694,6 +11764,7 @@ packages:
   - libbrotlicommon 1.2.1 h384ecca_1
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlidec >=1.2.1,<1.3.0a0
@@ -11706,6 +11777,7 @@ packages:
   - libbrotlicommon 1.2.1 h384ecca_1
   - libgcc >=15
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlienc >=1.2.1,<1.3.0a0
@@ -12370,6 +12442,7 @@ packages:
   - zstd >=1.5.7,<1.6.0a0
   - lz4-c >=1.11.1,<1.12.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libnanoarrow >=0.9.0,<0.9.1.0a0
@@ -12519,6 +12592,7 @@ packages:
   - openssl >=3.5.9,<4.0a0
   - simdjson >=5.2.0,<5.3.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libparquet >=26.0.1,<26.1.0a0
@@ -13080,6 +13154,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 27678
   timestamp: 1794823820886
@@ -13093,6 +13168,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 27749
   timestamp: 1794823818533
@@ -13225,6 +13301,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -13244,6 +13321,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -13563,6 +13641,7 @@ packages:
   constrains:
   - pkg-config <0a0
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - pkgconf >=3.0.11,<4.0a0
@@ -13643,6 +13722,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 539719
   timestamp: 1794913661636
@@ -13660,6 +13740,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 546337
   timestamp: 1794913668705
@@ -13671,6 +13752,7 @@ packages:
   - libgcc >=15
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 226535
   timestamp: 1794808636511
@@ -13787,6 +13869,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 1883247
   timestamp: 1794860670264
@@ -13801,6 +13884,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 1882243
   timestamp: 1794860677646
@@ -14156,6 +14240,7 @@ packages:
   - libgcc >=15
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 150850
   timestamp: 1794835347168
@@ -14167,6 +14252,7 @@ packages:
   - libgcc >=15
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 150024
   timestamp: 1794835348188
@@ -14283,6 +14369,7 @@ packages:
   - liblapack >=3.9.0,<4.0a0
   - libblas >=3.9.0,<4.0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 17452070
   timestamp: 1794833018627
@@ -14304,6 +14391,7 @@ packages:
   - liblapack >=3.9.0,<4.0a0
   - numpy >=1.25,<3
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 17752956
   timestamp: 1794833019247
@@ -14329,6 +14417,7 @@ packages:
   - libstdcxx >=15
   - libgcc >=15
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - simdjson >=5.2.0,<5.3.0a0
@@ -14356,6 +14445,7 @@ packages:
   - libgcc >=15
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 4173281
   timestamp: 1794914047778
@@ -14487,6 +14577,7 @@ packages:
   constrains:
   - __glibc >=2.17
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 365287
   timestamp: 1794939172986
@@ -15155,6 +15246,7 @@ packages:
   depends:
   - python >=3.11
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 1266443
   timestamp: 1794833364817
@@ -15642,6 +15734,7 @@ packages:
   - python-multipart
   - uvicorn-standard
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 4973
   timestamp: 1794773485493
@@ -15687,19 +15780,20 @@ packages:
   - python-multipart >=0.0.18
   - uvicorn-standard >=0.12.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 122396
   timestamp: 1794773485493
-- conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.11-pyh5ded981_0.conda
-  sha256: b96cba9bd80af79991853f8ba1c8a389cf417090f17cf2ba50c9b0bfc39bff72
-  md5: 4d6dd30a44ab4693c41ac40058f8c086
+- conda: https://conda.anaconda.org/conda-forge/noarch/filelock-4.2.12-pyh5ded981_0.conda
+  sha256: 1d309b23f70b3898531f660716d8437de8fa52a3714828aa83c086d040c5941b
+  md5: ee273788b5da3b5e7ccba69b8ed0140a
   depends:
   - python >=3.11
   - python
   license: MIT
   run_exports: {}
-  size: 188473
-  timestamp: 1794925600997
+  size: 188514
+  timestamp: 1795009187365
 - conda: https://conda.anaconda.org/conda-forge/noarch/folium-1.0.0-pyh5ded981_0.conda
   sha256: 5eb7ece51f1879120a09639abd1281b043b29b6709687f6e4d5c80fce0e00006
   md5: 9cfed27846621c006b399bc4d30f1af5
@@ -15712,6 +15806,7 @@ packages:
   - xyzservices
   - python
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 101115
   timestamp: 1794830197558
@@ -16201,6 +16296,7 @@ packages:
   - socksio 1.*
   - trio >=0.34.0,<1.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 56096
   timestamp: 1794841134702
@@ -16251,6 +16347,7 @@ packages:
   - socksio 1.*
   - wsproto >=1.2
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 88213
   timestamp: 1794841134702
@@ -16284,6 +16381,7 @@ packages:
   - pillow >=8.3.2
   - python
   license: BSD-2-Clause
+  license_family: BSD
   run_exports: {}
   size: 321586
   timestamp: 1794826636502
@@ -17078,6 +17176,7 @@ packages:
   - python >=3.11
   - python
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 315673
   timestamp: 1794958208079
@@ -17758,19 +17857,18 @@ packages:
   run_exports: {}
   size: 45107
   timestamp: 1794519492013
-- conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.0.3-pyh5ded981_1.conda
-  sha256: c56110c8ccc12a9a04380cd79379985e22e5817792fc364233f176c269265096
-  md5: 1fbd4e7089cb902ef109b49eaef4f0ff
+- conda: https://conda.anaconda.org/conda-forge/noarch/pytest-check-3.1.0-pyh5ded981_0.conda
+  sha256: bcebf2adfcf8adb51123c556c6caa7e713ad649cf889b183c6967c88c0009903
+  md5: 264b544efd0e46cdbe8c54684606cc09
   depends:
   - python >=3.11
   - pytest
   - typing-extensions >=4.12.2,<5
   - python
   license: MIT
-  license_family: MIT
   run_exports: {}
-  size: 52158
-  timestamp: 1792269080412
+  size: 53808
+  timestamp: 1794996066720
 - conda: https://conda.anaconda.org/conda-forge/noarch/python-abi3-3.12-hd2c606e_3.conda
   sha256: 9fcc9f0159579c65d313230c0f22d472372665e0ccb4b290070d854dfae5f6e5
   md5: 525d24e922797cf278e68757919ea34b
@@ -17914,6 +18012,7 @@ packages:
   - python >=3.11
   - python
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 40323
   timestamp: 1794902988691
@@ -18189,6 +18288,7 @@ packages:
   depends:
   - python >=3.11
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 54443
   timestamp: 1794690646967
@@ -18250,6 +18350,7 @@ packages:
   - pytest >=8.0.0
   - python >=3.11,<4.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 62190
   timestamp: 1794887807622
@@ -18350,6 +18451,7 @@ packages:
   constrains:
   - matplotlib-base >=3.3
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 236559
   timestamp: 1794921244453
@@ -18876,12 +18978,12 @@ packages:
   run_exports: {}
   size: 6116248
   timestamp: 1791850333006
-- conda: https://conda.anaconda.org/conda-forge/osx-64/astropy-base-8.0.2-py312h7393e0f_0.conda
-  sha256: f475723ca723e8b0b1d97d835f7d1e9593b9cfa6dbd17bb43ade3a4157177406
-  md5: a89b72b944a08d2f92e5535f6b8696db
+- conda: https://conda.anaconda.org/conda-forge/osx-64/astropy-base-8.0.3-py312h7393e0f_0.conda
+  sha256: 19a5e8136dbe41886c655b05c0881b55ac036bfa123e93ee0e54938108eea8ae
+  md5: 777a69bc5f9f3a9f9d9550b0327c602b
   depends:
   - __osx >=11.0
-  - astropy-iers-data >=0.2026.9.28.0.59.37
+  - astropy-iers-data >=0.2026.10.19.0.52.1
   - numpy >=1.25,<3
   - numpy >=2.0
   - packaging >=25.0
@@ -18894,8 +18996,8 @@ packages:
   license: BSD-3-Clause
   license_family: BSD
   run_exports: {}
-  size: 9803481
-  timestamp: 1792171615148
+  size: 9694653
+  timestamp: 1794987901048
 - conda: https://conda.anaconda.org/conda-forge/osx-64/atk-1.0-2.38.0-h4bec284_2.conda
   sha256: a5972a943764e46478c966b26be61de70dcd7d0cfda4bd0b0c46916ae32e0492
   md5: d9684247c943d492d9aac8687bc5db77
@@ -19253,6 +19355,7 @@ packages:
   - libbrotlidec 1.2.1 h4a2f56c_1
   - libbrotlienc 1.2.1 h3d41943_1
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -19268,6 +19371,7 @@ packages:
   - libbrotlidec 1.2.1 h4a2f56c_1
   - libbrotlienc 1.2.1 h3d41943_1
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 19129
   timestamp: 1794871089103
@@ -19359,6 +19463,7 @@ packages:
   - python >=3.12,<3.13.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 290595
   timestamp: 1794813157129
@@ -19372,6 +19477,7 @@ packages:
   - python >=3.13,<3.14.0a0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 291270
   timestamp: 1794813003460
@@ -19599,6 +19705,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 341661
   timestamp: 1794955863173
@@ -19613,6 +19720,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 341637
   timestamp: 1794955874291
@@ -19862,6 +19970,7 @@ packages:
   - python_abi 3.12.* *_cp312
   - libcrc32c >=1.1,<2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 31419
   timestamp: 1794832896434
@@ -19913,6 +20022,7 @@ packages:
   - libcxx >=21
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 266156
   timestamp: 1794830291395
@@ -19991,6 +20101,7 @@ packages:
   - libcxx >=21
   - libglib >=2.90.1,<3.0a0
   license: LGPL-2.0-or-later
+  license_family: LGPL
   run_exports:
     weak:
     - gts >=0.7.6,<0.8.0a0
@@ -20024,6 +20135,7 @@ packages:
   - python >=3.12,<3.13.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 90948
   timestamp: 1794903634404
@@ -20035,6 +20147,7 @@ packages:
   - python >=3.13,<3.14.0a0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 89756
   timestamp: 1794903795110
@@ -20092,6 +20205,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 67351
   timestamp: 1794810270326
@@ -20283,6 +20397,7 @@ packages:
   - arrow-cpp <0.0a0
   - parquet-cpp <0.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow >=26.0.1,<26.1.0a0
@@ -20322,6 +20437,7 @@ packages:
   - libopentelemetry-cpp >=1.30.0,<1.31.0a0
   - libprotobuf >=7.35.1,<7.35.2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-acero >=26.0.1,<26.1.0a0
@@ -20365,6 +20481,7 @@ packages:
   - libutf8proc >=2.12.0,<2.13.0a0
   - re2
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-compute >=26.0.1,<26.1.0a0
@@ -20408,6 +20525,7 @@ packages:
   - libparquet 26.0.1 h5fe4dce_7_cpu
   - libprotobuf >=7.35.1,<7.35.2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-dataset >=26.0.1,<26.1.0a0
@@ -20428,6 +20546,7 @@ packages:
   - libopentelemetry-cpp >=1.30.0,<1.31.0a0
   - libprotobuf >=7.35.1,<7.35.2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-s3 >=26.0.1,<26.1.0a0
@@ -20467,6 +20586,7 @@ packages:
   - libcxx >=21
   - libprotobuf >=7.35.1,<7.35.2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-substrait >=26.0.1,<26.1.0a0
@@ -20519,6 +20639,7 @@ packages:
   depends:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -20531,6 +20652,7 @@ packages:
   - __osx >=11.0
   - libbrotlicommon 1.2.1 he0616a4_1
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlidec >=1.2.1,<1.3.0a0
@@ -20543,6 +20665,7 @@ packages:
   - __osx >=11.0
   - libbrotlicommon 1.2.1 he0616a4_1
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlienc >=1.2.1,<1.3.0a0
@@ -21210,6 +21333,7 @@ packages:
   - lz4-c >=1.11.1,<1.12.0a0
   - zstd >=1.5.7,<1.6.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libnanoarrow >=0.9.0,<0.9.1.0a0
@@ -21357,6 +21481,7 @@ packages:
   - openssl >=3.5.9,<4.0a0
   - simdjson >=5.2.0,<5.3.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libparquet >=26.0.1,<26.1.0a0
@@ -21868,6 +21993,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 27810
   timestamp: 1794823864720
@@ -21881,6 +22007,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 28158
   timestamp: 1794823911202
@@ -22059,6 +22186,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -22078,6 +22206,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -22385,6 +22514,7 @@ packages:
   constrains:
   - pkg-config <0a0
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - pkgconf >=3.0.11,<4.0a0
@@ -22465,6 +22595,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 488986
   timestamp: 1794913767959
@@ -22482,6 +22613,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 495856
   timestamp: 1794913837118
@@ -22493,6 +22625,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 236963
   timestamp: 1794808699965
@@ -22607,6 +22740,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 1989616
   timestamp: 1794860785623
@@ -22621,6 +22755,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 1991237
   timestamp: 1794860723833
@@ -22648,6 +22783,7 @@ packages:
   - libffi >=3.7.0,<3.8.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 2589127
   timestamp: 1794850191475
@@ -22662,6 +22798,7 @@ packages:
   - libffi >=3.7.0,<3.8.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 425769
   timestamp: 1794927526281
@@ -22995,6 +23132,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 135106
   timestamp: 1794835436970
@@ -23006,6 +23144,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 134810
   timestamp: 1794835522424
@@ -23121,6 +23260,7 @@ packages:
   - numpy >=1.25,<3
   - libblas >=3.9.0,<4.0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 16121970
   timestamp: 1794833150300
@@ -23143,6 +23283,7 @@ packages:
   - numpy >=1.25,<3
   - libblas >=3.9.0,<4.0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 16438459
   timestamp: 1794833172800
@@ -23180,6 +23321,7 @@ packages:
   - libcxx >=21
   - __osx >=11.0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - simdjson >=5.2.0,<5.3.0a0
@@ -23207,6 +23349,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 4101675
   timestamp: 1794914173858
@@ -23356,6 +23499,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 350293
   timestamp: 1794939367134
@@ -23698,6 +23842,7 @@ packages:
   constrains:
   - astropy >=7.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 9792314
   timestamp: 1794987578335
@@ -24049,6 +24194,7 @@ packages:
   - libbrotlidec 1.2.1 h5295a6a_1
   - libbrotlienc 1.2.1 h2ddc9cb_1
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -24064,6 +24210,7 @@ packages:
   - libbrotlidec 1.2.1 h5295a6a_1
   - libbrotlienc 1.2.1 h2ddc9cb_1
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 18902
   timestamp: 1794870582976
@@ -24155,6 +24302,7 @@ packages:
   - python >=3.12,<3.13.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 287058
   timestamp: 1794812676408
@@ -24168,6 +24316,7 @@ packages:
   - python >=3.13,<3.14.0a0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 289727
   timestamp: 1794812685764
@@ -24324,6 +24473,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 289529
   timestamp: 1794831594311
@@ -24380,6 +24530,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 325167
   timestamp: 1794955807503
@@ -24394,6 +24545,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 324637
   timestamp: 1794955881958
@@ -24643,6 +24795,7 @@ packages:
   - python_abi 3.12.* *_cp312
   - libcrc32c >=1.1,<2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 31501
   timestamp: 1794832792981
@@ -24694,6 +24847,7 @@ packages:
   - libcxx >=21
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 264408
   timestamp: 1794830075678
@@ -24803,6 +24957,7 @@ packages:
   - python >=3.12,<3.13.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 89760
   timestamp: 1794903237886
@@ -24814,6 +24969,7 @@ packages:
   - python >=3.13,<3.14.0a0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 88879
   timestamp: 1794903237961
@@ -24871,6 +25027,7 @@ packages:
   - libcxx >=21
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 63725
   timestamp: 1794810212380
@@ -25062,6 +25219,7 @@ packages:
   - arrow-cpp <0.0a0
   - parquet-cpp <0.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow >=26.0.1,<26.1.0a0
@@ -25101,6 +25259,7 @@ packages:
   - libopentelemetry-cpp >=1.30.0,<1.31.0a0
   - libprotobuf >=7.35.1,<7.35.2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-acero >=26.0.1,<26.1.0a0
@@ -25144,6 +25303,7 @@ packages:
   - libutf8proc >=2.12.0,<2.13.0a0
   - re2
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-compute >=26.0.1,<26.1.0a0
@@ -25187,6 +25347,7 @@ packages:
   - libparquet 26.0.1 h5d99d90_7_cpu
   - libprotobuf >=7.35.1,<7.35.2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-dataset >=26.0.1,<26.1.0a0
@@ -25207,6 +25368,7 @@ packages:
   - libopentelemetry-cpp >=1.30.0,<1.31.0a0
   - libprotobuf >=7.35.1,<7.35.2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-s3 >=26.0.1,<26.1.0a0
@@ -25246,6 +25408,7 @@ packages:
   - libcxx >=21
   - libprotobuf >=7.35.1,<7.35.2.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-substrait >=26.0.1,<26.1.0a0
@@ -25302,6 +25465,7 @@ packages:
   depends:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -25314,6 +25478,7 @@ packages:
   - __osx >=11.0
   - libbrotlicommon 1.2.1 h1dcdb26_1
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlidec >=1.2.1,<1.3.0a0
@@ -25326,6 +25491,7 @@ packages:
   - __osx >=11.0
   - libbrotlicommon 1.2.1 h1dcdb26_1
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlienc >=1.2.1,<1.3.0a0
@@ -25978,6 +26144,7 @@ packages:
   - zstd >=1.5.7,<1.6.0a0
   - lz4-c >=1.11.1,<1.12.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libnanoarrow >=0.9.0,<0.9.1.0a0
@@ -26125,6 +26292,7 @@ packages:
   - openssl >=3.5.9,<4.0a0
   - simdjson >=5.2.0,<5.3.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libparquet >=26.0.1,<26.1.0a0
@@ -26634,6 +26802,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 27860
   timestamp: 1794823841991
@@ -26647,6 +26816,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 28227
   timestamp: 1794823823453
@@ -26779,6 +26949,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -26798,6 +26969,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -27107,6 +27279,7 @@ packages:
   constrains:
   - pkg-config <0a0
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - pkgconf >=3.0.11,<4.0a0
@@ -27187,6 +27360,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 482243
   timestamp: 1794913699128
@@ -27204,6 +27378,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 489013
   timestamp: 1794913738279
@@ -27215,6 +27390,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 236451
   timestamp: 1794808647457
@@ -27330,6 +27506,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 1820146
   timestamp: 1794860698719
@@ -27344,6 +27521,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 1819475
   timestamp: 1794860683113
@@ -27371,6 +27549,7 @@ packages:
   - python_abi 3.12.* *_cp312
   - libffi >=3.7.0,<3.8.0a0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 2437257
   timestamp: 1794850146721
@@ -27385,6 +27564,7 @@ packages:
   - python_abi 3.12.* *_cp312
   - libffi >=3.7.0,<3.8.0a0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 425112
   timestamp: 1794927663775
@@ -27722,6 +27902,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 126681
   timestamp: 1794835396210
@@ -27733,6 +27914,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 126646
   timestamp: 1794835368516
@@ -27850,6 +28032,7 @@ packages:
   - python_abi 3.12.* *_cp312
   - libcblas >=3.9.0,<4.0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 14335903
   timestamp: 1794833045515
@@ -27872,6 +28055,7 @@ packages:
   - liblapack >=3.9.0,<4.0a0
   - python_abi 3.13.* *_cp313
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 14639426
   timestamp: 1794833045992
@@ -27909,6 +28093,7 @@ packages:
   - __osx >=11.0
   - libcxx >=21
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - simdjson >=5.2.0,<5.3.0a0
@@ -27936,6 +28121,7 @@ packages:
   - __osx >=11.0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 4102055
   timestamp: 1794914138211
@@ -28075,6 +28261,7 @@ packages:
   constrains:
   - __osx >=11.0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 336154
   timestamp: 1794939204078
@@ -28569,6 +28756,7 @@ packages:
   - ucrt >=10.0.20348.0
   - aws-c-common >=1.0.5,<1.1.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - aws-checksums >=1.0.1,<1.0.2.0a0
@@ -28761,6 +28949,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -28778,6 +28967,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 22964
   timestamp: 1794870661735
@@ -28843,6 +29033,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 344066
   timestamp: 1794812732947
@@ -28857,6 +29048,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 345204
   timestamp: 1794812744030
@@ -28910,6 +29102,7 @@ packages:
   - ucrt >=10.0.20348.0
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 249305
   timestamp: 1794831528195
@@ -28955,6 +29148,7 @@ packages:
   - zstd >=1.5.7,<1.6.0a0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 282487
   timestamp: 1794955781237
@@ -28969,6 +29163,7 @@ packages:
   - python_abi 3.13.* *_cp313
   - zstd >=1.5.7,<1.6.0a0
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 282022
   timestamp: 1794955783225
@@ -28986,6 +29181,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - fontconfig >=2.18.3,<3.0a0
@@ -29250,6 +29446,7 @@ packages:
   - libcrc32c >=1.1,<2.0a0
   - python_abi 3.12.* *_cp312
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 32139
   timestamp: 1794832760655
@@ -29300,6 +29497,7 @@ packages:
   - ucrt >=10.0.20348.0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 258259
   timestamp: 1794830131854
@@ -29350,6 +29548,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: LGPL-2.0-or-later
+  license_family: LGPL
   run_exports:
     weak:
     - gts >=0.7.6,<0.8.0a0
@@ -29390,6 +29589,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 80514
   timestamp: 1794903392604
@@ -29403,6 +29603,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 80322
   timestamp: 1794903383239
@@ -29451,6 +29652,7 @@ packages:
   - ucrt >=10.0.20348.0
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 73244
   timestamp: 1794810184093
@@ -29627,6 +29829,7 @@ packages:
   - arrow-cpp <0.0a0
   - parquet-cpp <0.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow >=26.0.1,<26.1.0a0
@@ -29660,6 +29863,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-acero >=26.0.1,<26.1.0a0
@@ -29697,6 +29901,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-compute >=26.0.1,<26.1.0a0
@@ -29734,6 +29939,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-dataset >=26.0.1,<26.1.0a0
@@ -29751,6 +29957,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-s3 >=26.0.1,<26.1.0a0
@@ -29792,6 +29999,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libarrow-substrait >=26.0.1,<26.1.0a0
@@ -29823,6 +30031,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlicommon >=1.2.1,<1.3.0a0
@@ -29837,6 +30046,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlidec >=1.2.1,<1.3.0a0
@@ -29851,6 +30061,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - libbrotlienc >=1.2.1,<1.3.0a0
@@ -30410,6 +30621,7 @@ packages:
   - zstd >=1.5.7,<1.6.0a0
   - lz4-c >=1.11.1,<1.12.0a0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libnanoarrow >=0.9.0,<0.9.1.0a0
@@ -30523,6 +30735,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - libparquet >=26.0.1,<26.1.0a0
@@ -31019,6 +31232,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 28520
   timestamp: 1794823812993
@@ -31034,6 +31248,7 @@ packages:
   constrains:
   - jinja2 >=3.0.0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 28881
   timestamp: 1794823805740
@@ -31210,6 +31425,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -31230,6 +31446,7 @@ packages:
   constrains:
   - numpy-base <0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports:
     weak:
     - numpy >=1.25,<3
@@ -31551,6 +31768,7 @@ packages:
   constrains:
   - pkg-config <0a0
   license: MIT
+  license_family: MIT
   run_exports:
     weak:
     - pkgconf >=3.0.11,<4.0a0
@@ -31636,6 +31854,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 539958
   timestamp: 1794913658446
@@ -31652,6 +31871,7 @@ packages:
   constrains:
   - libprotobuf 7.35.1.*
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 546370
   timestamp: 1794913659626
@@ -31665,6 +31885,7 @@ packages:
   - ucrt >=10.0.20348.0
   - python_abi 3.12.* *_cp312
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 242933
   timestamp: 1794808643033
@@ -31785,6 +32006,7 @@ packages:
   - ucrt >=10.0.20348.0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 2013954
   timestamp: 1794860662158
@@ -31799,6 +32021,7 @@ packages:
   - ucrt >=10.0.20348.0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 2014533
   timestamp: 1794860658108
@@ -31999,6 +32222,7 @@ packages:
   - vc14_runtime >=14.29.30139
   - winpty
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 773321
   timestamp: 1794930264905
@@ -32185,6 +32409,7 @@ packages:
   - ucrt >=10.0.20348.0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 119205
   timestamp: 1794835349389
@@ -32198,6 +32423,7 @@ packages:
   - ucrt >=10.0.20348.0
   - python_abi 3.13.* *_cp313
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 118670
   timestamp: 1794835343147
@@ -32300,6 +32526,7 @@ packages:
   - libblas >=3.9.0,<4.0a0
   - pkgconf >=3.0.11,<4.0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 15458156
   timestamp: 1794833005666
@@ -32320,6 +32547,7 @@ packages:
   - pkgconf >=3.0.11,<4.0a0
   - libblas >=3.9.0,<4.0a0
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 15816516
   timestamp: 1794833017261
@@ -32348,6 +32576,7 @@ packages:
   - vc14_runtime >=14.44.35208
   - ucrt >=10.0.20348.0
   license: Apache-2.0
+  license_family: APACHE
   run_exports:
     weak:
     - simdjson >=5.2.0,<5.3.0a0
@@ -32378,6 +32607,7 @@ packages:
   - ucrt >=10.0.20348.0
   - python_abi 3.12.* *_cp312
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 4056154
   timestamp: 1794914045788
@@ -32425,6 +32655,7 @@ packages:
   - vc >=14.3,<15
   - vc14_runtime >=14.44.35208
   license: Apache-2.0
+  license_family: APACHE
   run_exports: {}
   size: 157384
   timestamp: 1794795939733
@@ -32499,6 +32730,7 @@ packages:
   depends:
   - vc14_runtime >=14.51.36247
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 18004
   timestamp: 1794654419835
@@ -32533,6 +32765,7 @@ packages:
   depends:
   - vc14_runtime >=14.51.36247
   license: BSD-3-Clause
+  license_family: BSD
   run_exports: {}
   size: 18032
   timestamp: 1794654419835
@@ -32551,6 +32784,7 @@ packages:
   - _python_abi3_support 1.*
   - cpython >=3.11
   license: MIT
+  license_family: MIT
   run_exports: {}
   size: 305722
   timestamp: 1794939180818
@@ -32957,9 +33191,9 @@ packages:
   license: Apache-2.0
   size: 25300
   timestamp: 1725938421487
-- conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.36.0-pyh4616a5c_5.conda
-  sha256: 754533347ae8e68f32b3738091f26cd7bd65e6f052c459b71d98faaae4b67c0e
-  md5: 5fe3ef13178ce23ec8f5210685986a9b
+- conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-2.37.0-pyh4616a5c_5.conda
+  sha256: 5a43a005025272c9a8c1e44352cee1ec8281d04b5c30444c651e861ef81ced8e
+  md5: 587569ace4e3f4c5fa2f49d24548f00c
   depends:
   - python
   - backoff
@@ -32989,8 +33223,8 @@ packages:
   - pandasql
   license: BSD-3-Clause
   run_exports: {}
-  size: 3363164
-  timestamp: 1794953168959
+  size: 3364455
+  timestamp: 1795009259521
 - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-earthranger-io-core-0.0.28-pyh4616a5c_0.conda
   sha256: 3516b6daea43359db47cae25436d1bb84b0f06e5835e9680c613a0330142b918
   md5: 75cb2aff0d44778b01f6d130d900a3fa
@@ -33018,11 +33252,11 @@ packages:
   run_exports: {}
   size: 8354
   timestamp: 1781575844263
-- conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.36.0-pyh4616a5c_0.conda
-  sha256: 1f0890ffc82df15314ef48cbd357f4e7a24909a8093b3b9297fbcdc01f445323
-  md5: a591f4af693d48c14edeecdcf2a54a7d
+- conda: https://repo.prefix.dev/ecoscope-workflows/noarch/ecoscope-platform-2.37.0-pyh4616a5c_0.conda
+  sha256: 6c32302e51518ff89c4bf5ba735cc88d6cd585b6f6a43ac4eb54bf9410a058e5
+  md5: dce9469c79bc4a33bbff81160bef30fd
   depends:
-  - ecoscope ==2.36.0
+  - ecoscope ==2.37.0
   - pandera >=0.28,<0.29
   - pydantic
   - pydantic-settings
@@ -33035,8 +33269,8 @@ packages:
   - ecoscope-earthranger-io-core >=0.0.28,<0.1.0
   license: BSD-3-Clause
   run_exports: {}
-  size: 3817
-  timestamp: 1794953168959
+  size: 3811
+  timestamp: 1795009259521
 - conda: https://repo.prefix.dev/ecoscope-workflows/noarch/lonboard-0.0.8-pyh4616a5c_0.conda
   sha256: edaf1debf3f2bdbffa07b8813c8dee03db9772621910581f4552c7bb0618a62c
   depends:

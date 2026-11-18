@@ -162,7 +162,8 @@ def main(params: dict[str, Any], validate_params_schema: bool = True):
             palette=None,
             pinned_values=None,
             other_color=None,
-            plot_style=None,
+            expand_other=True,
+            plot_style={"insidetextorientation": "radial"},
             layout_style=None,
             **(params.get("sunburst") or {}),
         )
