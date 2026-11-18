@@ -12,7 +12,7 @@ It is one output of the incident report, split out on its own so it can be combi
 |---|---|
 | Events by incident and event type (widget) | Inner ring: incidents. Outer ring: their event types, in the incident's colour. Hover shows the count, % of parent and % of total. |
 
-Incidents take their colours from the default palette, and each outer slice takes its incident's colour. So, unlike the storyboard, event types here don't use the shared event-type colours.
+Incidents take their colours, in turn, from the same 16-colour list as the other workflows split out of the incident report (repeating after 16), and each outer slice takes its incident's colour. "Other" is grey. Here the colours mark incidents, not event types, so an event type's colour doesn't match the storyboard's.
 
 ## Parameters
 
