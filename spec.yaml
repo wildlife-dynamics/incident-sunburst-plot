@@ -29,9 +29,9 @@ metadata:
   thumbnail: resources/thumbnail.png
 
 requirements:
-  # draw_sunburst_chart's expand_other (an "Other" you can open) arrived in 2.37.0.
+  # draw_sunburst_chart's expand_other arrived in 2.37.0; color_ring and leaf_opacity in 2.38.0.
   - name: ecoscope-platform
-    version: ">=2.37.0,<3.0.0"
+    version: ">=2.38.0,<3.0.0"
     channel: https://repo.prefix.dev/ecoscope-workflows/
 
   # ecoscope-platform requires pydeck==0.9.2, which is only on conda-forge;
@@ -108,27 +108,16 @@ workflow:
           max_depth: 5
           include_icons: false
 
-      - id: incidents_split
-        task: split_groups
+      # Colours are assigned once, before splitting, so an event type keeps its
+      # colour in every view. The most common type gets the first colour (ties by
+      # name). Same task and list as incident-storyboard, so on the same site and
+      # time range an event type has the same colour in both.
+      - id: event_type_colors
+        task: color_map_by_frequency
         partial:
           df: ${{ workflow.incident_events.return }}
-          groupers: ${{ workflow.groupers.return }}
-
-  - title: Sunburst
-    type: task-group
-    description: ""
-    tasks:
-      - id: sunburst
-        task: draw_sunburst_chart
-        # only top_n is left in the form. Event-type colours (color_map_by_frequency) are not
-        # used: outer slices take their incident's colour, so incidents get the default palette.
-        partial:
-          ring_columns: [incident, event_type_display]
-          value_column: null
-          color_column: null
-          # the same 16 colours as the other workflows split out of the incident report, so the
-          # charts look like one set; incidents take them in turn (repeating after 16), "Other" stays grey
-          palette:
+          input_column_name: event_type_display
+          colormap:
             - "#2a78d6"
             - "#eb6834"
             - "#1baf7a"
@@ -145,13 +134,44 @@ workflow:
             - "#7cc4f0"
             - "#9b2f5f"
             - "#d4a3e8"
+
+      - id: incident_data
+        task: apply_color_map
+        partial:
+          df: ${{ workflow.incident_events.return }}
+          input_column_name: event_type_display
+          output_column_name: event_type_color
+          colormap: ${{ workflow.event_type_colors.return }}
+
+      - id: incidents_split
+        task: split_groups
+        partial:
+          df: ${{ workflow.incident_data.return }}
+          groupers: ${{ workflow.groupers.return }}
+
+  - title: Sunburst
+    type: task-group
+    description: ""
+    tasks:
+      - id: sunburst
+        task: draw_sunburst_chart
+        # only top_n is left in the form. Event types take their event-type colour (as in
+        # incident-storyboard); incidents are one light grey.
+        partial:
+          ring_columns: [incident, event_type_display]
+          value_column: null
+          color_column: event_type_color
+          color_ring: 1
+          palette: ["#e6e9ee"]
           pinned_values: null
           other_color: null
           # "Other" keeps its incidents by name: click it to see them and their event types.
           expand_other: true
           # names run along each slice, so they stay centred in a wide ring once "Other" is open
+          # leaf_opacity 1: event types at full colour, matching the storyboard tiles
           plot_style:
             insidetextorientation: radial
+            leaf_opacity: 1
           layout_style: null
         mapvalues:
           argnames: dataframe
